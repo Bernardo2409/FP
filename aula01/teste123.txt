@@ -1,0 +1,14 @@
+tempo_segundos = int(input("segundos"))
+hra = (tempo_segundos /3600)
+h = format(hra)
+print (h)
+
+min = (hra - int(h)) * 60
+m = format(min)
+print (m)
+ 
+seg = (min - m) * 60
+s = format(seg)
+print (s)
+
+print("{:02d}:{:02d}:{:02d}".format(h, m, s))
