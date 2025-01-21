@@ -1,0 +1,14 @@
+R, a, n
+140, Auckland City, 1582
+1099, Canterbury United, 1336
+899, Eastern Suburbs, 1359
+2500, Hamilton Wanderers Afc, 1221
+1682, Hawke's Bay United, 1281
+2644, Southern United, 1198
+2402, Tasman United, 1230
+297, Team Wellington, 1498
+2372, WaiBOP United, 1232
+852, Waitakere United, 1366
+2533, Wanderers SC, 1217
+2532, Wellington Phoenix Reserves, 1217
+2725, Young Heart Manawatu, 1174

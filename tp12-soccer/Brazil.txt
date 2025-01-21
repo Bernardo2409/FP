@@ -1,0 +1,44 @@
+
+Equipas de Brazil
+Equipa                                   Posicao   Score
+América Mineiro                              102    1616
+Atlético Goianiense                           97    1621
+Atlético Mineiro                              17    1806
+Atlético PR                                  108    1608
+Avaí FC                                      953    1352
+Bahia                                        186    1548
+Botafogo RJ                                  773    1379
+Brasilia                                     404    1459
+Ceará SC                                      98    1620
+Chapecoense AF                              1075    1338
+Corinthians                                   89    1630
+Coritiba                                     503    1434
+Criciúma                                     634    1405
+Cruzeiro                                     301    1495
+CS Alagoano AL                               692    1394
+Cuiaba                                       191    1547
+EC Juventude                                 197    1544
+Figueirense                                  505    1434
+Flamengo                                      29    1768
+Fluminense FC                                 87    1635
+Goiás                                        349    1475
+Grêmio                                       117    1599
+Grêmio Prudente                              700    1393
+Guarani FC                                   552    1422
+Internacional                                122    1596
+Joinville EC                                 639    1404
+Náutico                                     1302    1314
+Palmeiras                                     26    1775
+Paraná Clube                                 789    1376
+Ponte Preta                                  434    1451
+Portuguesa                                   178    1554
+Red Bull Bragantino SP                        85    1636
+Santa Cruz                                   594    1412
+Santo André                                  491    1437
+Santo André                                  491    1437
+Santos FC                                    124    1596
+São Paulo                                     93    1625
+Sport Recife                                 281    1507
+Vasco da Gama                                308    1492
+Vitória                                      469    1442
+Vitória                                      469    1442
